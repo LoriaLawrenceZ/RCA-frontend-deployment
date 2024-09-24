@@ -1,0 +1,24 @@
+* {padding: 0; margin: 0;}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: var(--dark);
+  background-color: var(--wt-background);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /*-----===| COLORS |===-----*/
+  --wt-background: #FEFEFE;
+  --wt-menu: #F1F3F4;
+  --dk-background: #1F1F1F;
+  --dk-secondary: #161616;
+  --dk-tertiary: #292929;
+  --dark: #121212;
+}

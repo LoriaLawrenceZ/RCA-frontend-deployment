@@ -1,0 +1,13 @@
+.looker-container {
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+iframe {
+    height: 100%;
+    width: 100%;
+}
